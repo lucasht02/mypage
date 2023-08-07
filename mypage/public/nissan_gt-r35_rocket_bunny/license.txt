@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nissan GT-R35 Rocket Bunny
+* source:	https://sketchfab.com/3d-models/nissan-gt-r35-rocket-bunny-a6d3feaa2a8340299d6c96f4a2eaa0a1
+* author:	DAS AUTO (https://sketchfab.com/das_auto)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nissan GT-R35 Rocket Bunny" (https://sketchfab.com/3d-models/nissan-gt-r35-rocket-bunny-a6d3feaa2a8340299d6c96f4a2eaa0a1) by DAS AUTO (https://sketchfab.com/das_auto) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
