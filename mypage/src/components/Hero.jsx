@@ -5,7 +5,7 @@ import CarCanvas from "./Car"
 
 const Hero = () => {
     return (
-        <section className={`relative w-full h-screen mx-auto`}>
+        <section className={`w-full h-screen`}>
             <div>
                 <h1 className={`${styles.heroHeadText}`}>Hi, wassup</h1>
             </div>
